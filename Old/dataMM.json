@@ -1,0 +1,622 @@
+[
+        {
+            "name": "Fahri",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Fahrul",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Salsa",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Fauzan",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Vebiola",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Hasbiya",
+            "kelompok": "Barujati",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Lulu Auralia",
+            "kelompok": "Bojong",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Afiah Ulya Faja",
+            "kelompok": "Bojong",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Fuzi Rabanita",
+            "kelompok": "Bojong",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Fatur",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Alfan",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Fakih",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Niken",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Nova",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Makhi Zainul Urfi",
+            "kelompok": "Burujul",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Sulthon",
+            "kelompok": "Cibaduyut",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Faisal",
+            "kelompok": "Cibaduyut",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Adi",
+            "kelompok": "Cidawolong",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Ilham Nurf",
+            "kelompok": "Cidawolong",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Akmal",
+            "kelompok": "Cimaung",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Rivana",
+            "kelompok": "Cipaku",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Ilham",
+            "kelompok": "Cipaku",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Tsalisa",
+            "kelompok": "Cipaku",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Litahsya",
+            "kelompok": "Cipaku",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Atia",
+            "kelompok": "Cipaku",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Fadli",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Akbar",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Fajri",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Dinda",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Frida",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Raihan",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Zulfan",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Zulfian",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Rafael",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Muklis",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Putri",
+            "kelompok": "Cipicung Barat",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Elsya Almira",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "M. Jordan",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Royani Nurjannah",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Rasheeda Sahla Zahira",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Lilik Fadila",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Isna",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Eka",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Dini Fitriani",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Berliana Sidqi",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Insania Nabelladina",
+            "kelompok": "Cipicung Timur",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Aziz",
+            "kelompok": "Ciwidey",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Vina",
+            "kelompok": "Ciwidey",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Caca",
+            "kelompok": "Ciwidey",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Noval",
+            "kelompok": "Ciwidey",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Mike",
+            "kelompok": "Dayeuh Kolot",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Zahra",
+            "kelompok": "Dayeuh Kolot",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Muhammad Thoriq",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Rama Aditya Firdaus",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Novaini",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Diana Ratna Ningsih",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Utya Rizkia Hasanah",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Isa Maulana",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Refal Widara",
+            "kelompok": "Haurbuyut",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Hilda",
+            "kelompok": "Junti",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Agni",
+            "kelompok": "Junti",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Risya",
+            "kelompok": "KBSI",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Sulton",
+            "kelompok": "KBSI",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Wulan",
+            "kelompok": "KBSI",
+            "desa": "Ciparay"
+        },
+        {
+            "name": "Erma Efa Fauziah",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Khoirul Abdul Aziz",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Akbar",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Zidan",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Sumka Mutiara Rimba",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Priya Setia Laksono",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Aulia Sholihat",
+            "kelompok": "Kertamanah",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Mauren",
+            "kelompok": "Koper",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Ahmed Thohir",
+            "kelompok": "Marken",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Sendi Nur Hasan",
+            "kelompok": "Marken",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Firli Aprilia",
+            "kelompok": "Marper",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Sabilla Zakiyana Rahma",
+            "kelompok": "Marper",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Intan R.C",
+            "kelompok": "Marper",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Tiara Anjelina",
+            "kelompok": "Muara",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Salsabila",
+            "kelompok": "Muara",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Deden Wardani",
+            "kelompok": "Muara",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Ridwan",
+            "kelompok": "Muara",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Bayu",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Anta",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Andri Af",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Diva",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Indra",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Raisya",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Teja",
+            "kelompok": "Munjul",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Nur Fitriani",
+            "kelompok": "Nambo",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Sasa",
+            "kelompok": "Nambo",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Rafi",
+            "kelompok": "Nambo",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Irsyad",
+            "kelompok": "Nambo",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Hurin",
+            "kelompok": "Nambo",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Erista Novia",
+            "kelompok": "Palasari",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Melani",
+            "kelompok": "Palasari",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Azka",
+            "kelompok": "Palasari",
+            "desa": "Baleendah"
+        },
+        {
+            "name": "Akmal",
+            "kelompok": "Pangalengan",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Aliefa",
+            "kelompok": "Pangalengan",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Juniar",
+            "kelompok": "Pangalengan",
+            "desa": "Banjaran"
+        },
+        {
+            "name": "Helmi Ahmad M.",
+            "kelompok": "Permata Kopo",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Savia ",
+            "kelompok": "Permata Kopo",
+            "desa": "Sayati"
+        },
+        {
+            "name": "Silda",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Mulki",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Aliva",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Viar",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Adinda",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Viera",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Fitri",
+            "kelompok": "Pongporang",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Nur Huda",
+            "kelompok": "Soreang 1",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Nadira",
+            "kelompok": "Soreang 2",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Viliardi",
+            "kelompok": "Soreang 2",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Shafira",
+            "kelompok": "Soreang 2",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Firda",
+            "kelompok": "Sukamanah 2",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Judan",
+            "kelompok": "Sukamanah 2",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Royan",
+            "kelompok": "Sukamanah 2",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Zidan",
+            "kelompok": "Sukamanah 2",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Kawilda",
+            "kelompok": "Sukamanah 3",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Sarah",
+            "kelompok": "Sukamanah 3",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Nurul",
+            "kelompok": "Sukamanah 3",
+            "desa": "Majalaya"
+        },
+        {
+            "name": "Nining",
+            "kelompok": "Warun Lobak 1",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Shidiq",
+            "kelompok": "Warun Lobak 1",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Bimo",
+            "kelompok": "Warun Lobak 1",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Kayis",
+            "kelompok": "Warun Lobak 2",
+            "desa": "Soreang"
+        },
+        {
+            "name": "Hapip",
+            "kelompok": "Warun Lobak 2",
+            "desa": "Soreang"
+        }
+    ]
