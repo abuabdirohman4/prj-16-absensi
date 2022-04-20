@@ -1,6 +1,10 @@
 <?php
 
-$conn = mysqli_connect("localhost", "u7714918_abu", "Abu3546210", "u7714918_infoabcd");
+// Development
+$conn = mysqli_connect("localhost", "root", "root", "prj-16-absensi-gama");
+
+// Production
+// $conn = mysqli_connect("localhost", "u7714918_abu", "Abu3546210", "u7714918_infoabcd");
 
 $data = $conn->query("SELECT * FROM terdaftar");
 $r = array();

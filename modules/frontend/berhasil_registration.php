@@ -7,7 +7,12 @@ if(!isset($_GET["idPengajian"])) {
 
 $idPengajian = $_GET["idPengajian"];
 
-$conn = mysqli_connect("localhost", "u7714918_abu", "Abu3546210", "u7714918_infoabcd");
+// Development
+$conn = mysqli_connect("localhost", "root", "root", "prj-16-absensi-gama");
+
+// Production
+// $conn = mysqli_connect("localhost", "u7714918_abu", "Abu3546210", "u7714918_infoabcd");
+
 
 if ( isset($_POST["submit"]) ){
 
